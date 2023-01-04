@@ -3,6 +3,9 @@ public class main1{
     public static void bubblesort(){
         System.out.println("Bubblesort is a new branch 1");
     }
+    public static void countingsort(){
+        System.out.println("This is counting sort");
+    }
 
     public static void quicksort()
     {
